@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{C57748AE-6402-C789-5BBD-10E52DCDCCBB}</ProjectGuid>
+    <ProjectGuid>{7FB6AD55-D850-78FF-913E-7578700E796E}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -159,16 +159,16 @@
      <None Include="Assets\Shaders\CardboardDistortion.cginc" />
      <None Include="Assets\GoogleVR\Plugins\Android\AndroidManifest-Cardboard.xml" />
  <Reference Include="UnityEditor.StandardEvents">
- <HintPath>C:/Users/Puthusseri/Downloads/VR-Software-Development_Creating-Scripts-2.0.0/VR-Software-Development_Creating-Scripts-2.0.0/Creating Scripts/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+ <HintPath>E:/Unity/LowPolyIslandStimulation/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>C:/Users/Puthusseri/Downloads/VR-Software-Development_Creating-Scripts-2.0.0/VR-Software-Development_Creating-Scripts-2.0.0/Creating Scripts/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ <HintPath>E:/Unity/LowPolyIslandStimulation/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.PackageManagerUI.Editor">
- <HintPath>C:/Users/Puthusseri/Downloads/VR-Software-Development_Creating-Scripts-2.0.0/VR-Software-Development_Creating-Scripts-2.0.0/Creating Scripts/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+ <HintPath>E:/Unity/LowPolyIslandStimulation/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
- <HintPath>C:/Users/Puthusseri/Downloads/VR-Software-Development_Creating-Scripts-2.0.0/VR-Software-Development_Creating-Scripts-2.0.0/Creating Scripts/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ <HintPath>E:/Unity/LowPolyIslandStimulation/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -369,7 +369,7 @@
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll</HintPath>
  </Reference>
  <Reference Include="Google.ProtocolBuffers">
- <HintPath>C:/Users/Puthusseri/Downloads/VR-Software-Development_Creating-Scripts-2.0.0/VR-Software-Development_Creating-Scripts-2.0.0/Creating Scripts/Assets/GoogleVR/Plugins/Google.ProtocolBuffers.dll</HintPath>
+ <HintPath>E:/Unity/LowPolyIslandStimulation/Assets/GoogleVR/Plugins/Google.ProtocolBuffers.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.Analytics">
  <HintPath>C:/Users/Puthusseri/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.analytics@2.0.16/UnityEngine.Analytics.dll</HintPath>

@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{A9D50A88-BA2B-8301-7501-B9934CB13DC5}</ProjectGuid>
+    <ProjectGuid>{1B8D4D4B-A79E-7432-84A9-FE75E5DD205D}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp-Editor</AssemblyName>
@@ -67,16 +67,16 @@
      <Compile Include="Assets\GoogleVR\Editor\GvrEditorMenu.cs" />
      <Compile Include="Assets\GoogleVR\Editor\GvrEditorSettings.cs" />
  <Reference Include="UnityEditor.StandardEvents">
- <HintPath>C:/Users/Puthusseri/Downloads/VR-Software-Development_Creating-Scripts-2.0.0/VR-Software-Development_Creating-Scripts-2.0.0/Creating Scripts/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+ <HintPath>E:/Unity/LowPolyIslandStimulation/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>C:/Users/Puthusseri/Downloads/VR-Software-Development_Creating-Scripts-2.0.0/VR-Software-Development_Creating-Scripts-2.0.0/Creating Scripts/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ <HintPath>E:/Unity/LowPolyIslandStimulation/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.PackageManagerUI.Editor">
- <HintPath>C:/Users/Puthusseri/Downloads/VR-Software-Development_Creating-Scripts-2.0.0/VR-Software-Development_Creating-Scripts-2.0.0/Creating Scripts/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+ <HintPath>E:/Unity/LowPolyIslandStimulation/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
- <HintPath>C:/Users/Puthusseri/Downloads/VR-Software-Development_Creating-Scripts-2.0.0/VR-Software-Development_Creating-Scripts-2.0.0/Creating Scripts/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ <HintPath>E:/Unity/LowPolyIslandStimulation/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -322,7 +322,7 @@
  <HintPath>C:/Program Files/Unity/Editor/Data/PlaybackEngines/windowsstandalonesupport/UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
  </Reference>
  <Reference Include="Google.ProtocolBuffers">
- <HintPath>C:/Users/Puthusseri/Downloads/VR-Software-Development_Creating-Scripts-2.0.0/VR-Software-Development_Creating-Scripts-2.0.0/Creating Scripts/Assets/GoogleVR/Plugins/Google.ProtocolBuffers.dll</HintPath>
+ <HintPath>E:/Unity/LowPolyIslandStimulation/Assets/GoogleVR/Plugins/Google.ProtocolBuffers.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.Advertisements">
  <HintPath>C:/Users/Puthusseri/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll</HintPath>
@@ -369,7 +369,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp.csproj">
-      <Project>{C57748AE-6402-C789-5BBD-10E52DCDCCBB}</Project>      <Name>Assembly-CSharp</Name>    </ProjectReference>
+      <Project>{7FB6AD55-D850-78FF-913E-7578700E796E}</Project>      <Name>Assembly-CSharp</Name>    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
